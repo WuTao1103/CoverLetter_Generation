@@ -30,7 +30,7 @@ document.getElementById('upload-resume').addEventListener('change', function(eve
         const reader = new FileReader();
         reader.onload = function(e) {
             const content = e.target.result;
-            localStorage.setItem('resume', content); // 将内容保存在localStorage中
+            localStorage.setItem('resume', content);
             console.log('Resume uploaded and saved to localStorage.');
         };
         reader.onerror = function(e) {
@@ -91,10 +91,10 @@ function generateCoverLetter(jobDescription, resumeText,additionalInfo) {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
-            'Authorization': 'Bearer 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' // 使用新的API密钥
+            'Authorization': 'Bearer '
         },
         body: JSON.stringify({
-            model: "gpt-3.5-turbo",  // 指定模型
+            model: "gpt-3.5-turbo",
             messages: [{
                 role: "system",
                 content: "You are a helpful assistant tasked with writing cover letters."
