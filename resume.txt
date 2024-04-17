@@ -1,0 +1,14 @@
+Tao Wu
+Boston | 781-00000000| wu_tao_2022@163.com |Github | LinkedIn
+Education
+Northeastern University, Boston, MA                                                                             	Expected May 2025
+Master of Science in Internet of Things (ECE)
+Coursework: Algorithms; Wireless Sensor/ Internet of Things; Machine Learning and Pattern Recognition; Wireless Communication Systems
+Henan University of Technology (HAUT), Zhengzhou, CN				 July 2023
+Bachelor of Engineering in Internet of Things
+Coursework: Java Programming; C Programming; Data Structures; IoT System Design; Cloud Computing
+Skill
+Languages: Java; Python; C; C++; Visual Basic; Lua
+Frameworks: SpringBoot; MyBatis-Plus; Gateway; Feign; Django; Pytorch
+IoT Specific Skills: Arduino; STM32; MQTT; RFID; Wireless Sensor Networks
+Developer Tools: Linux; Unix; Git; MySQL; Redis; Nacos; Alibaba Cloud OSS (Object Storage Service); AWS; MQ (Message Queue); Scrapy; VGG-16 Model; ResNet Model; Bi-LSTM; CNN
