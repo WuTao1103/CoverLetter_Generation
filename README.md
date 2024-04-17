@@ -74,10 +74,13 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ## Video tutorial
 YouTube:https://www.youtube.com/watch?v=IRBDrJrVaqI
-Bilibili:
+Bilibili:https://www.bilibili.com/video/BV1uC411G7Ea/?spm_id_from=333.999.0.0
 ## License
 
 Distributed under the Apache License. See `LICENSE` file for more information.
+  
+
+
 
 # 推荐信生成器 Chrome 扩展
 
@@ -149,6 +152,9 @@ Distributed under the Apache License. See `LICENSE` file for more information.
 
 1. 如果对生成的推荐信满意，点击 `Export as Word Document` 将其下载为 .doc 文件。
 
+## 视频教程
+YouTube:https://www.youtube.com/watch?v=IRBDrJrVaqI
+Bilibili:https://www.bilibili.com/video/BV1uC411G7Ea/?spm_id_from=333.999.0.0
 ## 贡献
 
 欢迎贡献！如果您有改进的建议或发现了错误，请开设问题或提交拉取请求。
