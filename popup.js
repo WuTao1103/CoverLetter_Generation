@@ -91,7 +91,7 @@ function generateCoverLetter(jobDescription, resumeText,additionalInfo) {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
-            'Authorization': 'Bearer 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' // 使用新的API密钥
+            'Authorization': 'Bearer ' // 使用新的API密钥
         },
         body: JSON.stringify({
             model: "gpt-3.5-turbo",  // 指定模型
